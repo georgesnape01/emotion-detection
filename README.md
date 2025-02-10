@@ -1,3 +1,3 @@
-# Emotion Detection
+# 🚧 Emotion Detection 🚧
 
-🚧 **Information on this project is coming...**
+**Information on this project is coming...**
